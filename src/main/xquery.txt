@@ -1,0 +1,8 @@
+xquery let $doc1 := doc("/public/grp4/ticket.xml")
+let $doc2 := doc("/public/grp4/airport.xml")
+for $t in $doc1/TICKETS/TICKET
+for $a in $doc2/AIRPORTS/AIRPORT
+where $t/FID = "AY002" and $t/ORIGIN = $a/AID
+return <flight fid="{$t/FID/text()}"> <cname>{$t/CNAME/text()}</cname>
+    <aname>{$a/ANAME/text()}</aname></flight>
+/

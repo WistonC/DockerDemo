@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ORDERS>
+    <ORDER num="1">
+        <FEE>279.99</FEE>
+        <ORDERID>O0001</ORDERID>
+    </ORDER>
+    <ORDER num="2">
+        <FEE>189.99</FEE>
+        <ORDERID>O0002</ORDERID>
+    </ORDER>
+    <ORDER num="3">
+        <FEE>359.99</FEE>
+        <ORDERID>O0003</ORDERID>
+    </ORDER>
+</ORDERS>

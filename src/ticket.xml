@@ -1,0 +1,27 @@
+<?xml version = '1.0'?>
+<tickets>
+    <ticket num="1">
+        <PNAME>Ms Jasmine Merrit</PNAME>
+        <FID>AY002</FID>
+        <ORIGIN>HNL</ORIGIN>
+        <DEST>SYD</DEST>
+    </ticket>
+    <ticket num="2">
+        <PNAME>Mr Francesco Potter</PNAME>
+        <FID>AY003</FID>
+        <ORIGIN>SIN</ORIGIN>
+        <DEST>BKK</DEST>
+    </ticket>
+    <ticket num="3">
+        <PNAME>Dr Gemma Charles</PNAME>
+        <FID>AY001</FID>
+        <ORIGIN>YYZ</ORIGIN>
+        <DEST>HND</DEST>
+    </ticket>
+    <ticket num="4">
+        <PNAME>Dr Gemma Charles</PNAME>
+        <FID>AY001</FID>
+        <ORIGIN>YYZ</ORIGIN>
+        <DEST>HND</DEST>
+    </ticket>
+</tickets>

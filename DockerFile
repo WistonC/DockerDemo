@@ -1,0 +1,5 @@
+FROM openjdk:17
+COPY ./out/production/DockerDemo/ /tmp
+WORKDIR /tmp
+#ENTRYPOINT ["java","a.b.c.d.PackageDemo"]
+ENTRYPOINT ["java","HelloWorld"]
