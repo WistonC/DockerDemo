@@ -33,7 +33,6 @@ public class Test {
             String s1 = hashMap.get(s);
             System.out.print(s);
             System.out.println(s1);
-            System.out.println("Commit to revert");
 
         }
     }
