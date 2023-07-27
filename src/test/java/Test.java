@@ -34,7 +34,6 @@ public class Test {
             System.out.print(s);
             System.out.println(s1);
             System.out.println("Correct commit");
-            System.out.println("Commit to revert 2");
 
         }
     }
